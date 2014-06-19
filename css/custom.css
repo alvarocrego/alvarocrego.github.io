@@ -1,3 +1,40 @@
 html{
     background-color: #233140;
 }
+
+header{
+    background-color: #188EBB;
+}
+
+
+hr.star-light:after {
+    background-color: #188EBB;
+}
+
+
+a:hover,
+a:focus,
+a:active,
+a.active {
+    color: #188EBB !important;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption {
+    background: rgba(24,142,187,.9);
+}
+
+section.blue{
+    color: #fff;
+    background: #188EBB;
+}
+
+.btn-success {
+    color: #18bc9c;
+    border-color: #18bc9c;
+}
+
+
+
+
+
+
